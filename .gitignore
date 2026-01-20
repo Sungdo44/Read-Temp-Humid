@@ -1,41 +1,22 @@
-# Prerequisites
+# --- Arduino IDE Generated Files ---
+# โฟลเดอร์ที่ Arduino IDE 2.x สร้างขึ้นเวลา Compile
+build/
+
+#Compile flies
+*.hex
+*.elf
+*.bin
+*.map
+*.uf2
+
+#temporary files
 *.d
-
-# Compiled Object files
-*.slo
-*.lo
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
-*.lib
+*.lst
 
-# Executables
-*.exe
-*.out
-*.app
+#OS Junk Files
+.DS_Store
+Thumbs.db
 
-# debug information files
-*.dwo
+
